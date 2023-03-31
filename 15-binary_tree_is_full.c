@@ -33,18 +33,3 @@ int binary_tree_is_full(const binary_tree_t *tree)
 		return (0);
 	return (is_full_recursive(tree));
 }
-Footer
-© 2023 GitHub, Inc.
-Footer navigation
-Terms
-Privacy
-Security
-Status
-Docs
-Contact GitHub
-Pricing
-API
-Training
-Blog
-About
-
